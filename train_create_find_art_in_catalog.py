@@ -1,3 +1,4 @@
+# мы сделали изменение
 You are given a small extract of a catalog:
 
 s = "<prod><name>drill</name><prx>99</prx><qty>5</qty></prod>
